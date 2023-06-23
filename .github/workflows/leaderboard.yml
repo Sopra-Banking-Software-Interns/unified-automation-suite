@@ -2,7 +2,7 @@ env:
   token: ${{ secrets.TOKEN }}
   pantry: ${{ secrets.PANTRY }}
 
-name: create-map
+name: create-leaderboard
 on: push
 jobs:
   run_tests:
