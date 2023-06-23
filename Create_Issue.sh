@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # GitHub repository URL
-REPO_URL="https://github.com/Sopra-Banking-Software-Interns/auto-dependency-update"
+REPO_URL="https://github.com/Sopra-Banking-Software-Interns/unified-automation-suite"
 
 # GitHub personal access token
 GITHUB_TOKEN=$token
