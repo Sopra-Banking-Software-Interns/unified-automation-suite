@@ -39,4 +39,10 @@ You are good to go.
 - [@navvay](https://github.com/navvay)
 
 
-## Github-Leaderboard
+## Github-Leaderboard- [Mon Jun 26 06:27:58 UTC 2023](https://us-central1-js-capstone-backend.cloudfunctions.net/api/games/MpNkopuyhGBG77kL9xm1/scores/)
+<!--START_TABLE-->
+| Login        | Contributions | Solved Issues |
+| ------------ | ------------- | ------------- |
+| Riyu44 | [12](https://github.com/Sopra-Banking-Software-Interns/Github-Leaderboard/commits?author=Riyu44) | [7](https://getpantry.cloud/apiv1/pantry/860a0c02-c763-41ca-9d31-ec787fc3202a/basket/Riyu44) |
+| Tushar-2510 | [12](https://github.com/Sopra-Banking-Software-Interns/Github-Leaderboard/commits?author=Tushar-2510) | [0](https://getpantry.cloud/apiv1/pantry/860a0c02-c763-41ca-9d31-ec787fc3202a/basket/Tushar-2510) |
+<!--END_TABLE-->
