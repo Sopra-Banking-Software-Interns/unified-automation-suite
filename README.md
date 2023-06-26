@@ -42,9 +42,10 @@ You are good to go.
 ## Github-Leaderboard- 
 [Mon Jun 26 06:27:58 UTC 2023](https://us-central1-js-capstone-backend.cloudfunctions.net/api/games/MpNkopuyhGBG77kL9xm1/scores/)
 - [Mon Jun 26 06:30:11 UTC 2023](https://us-central1-js-capstone-backend.cloudfunctions.net/api/games/MkeJuO6lRsuW2scFnjX8/scores/)
+- [Mon Jun 26 06:30:47 UTC 2023](https://us-central1-js-capstone-backend.cloudfunctions.net/api/games/kJuDADR9eah8jkU55mK8/scores/)
 <!--START_TABLE-->
 | Login        | Contributions | Solved Issues |
 | ------------ | ------------- | ------------- |
-| Riyu44 | [19](https://github.com/Sopra-Banking-Software-Interns/Github-Leaderboard/commits?author=Riyu44) | [7](https://getpantry.cloud/apiv1/pantry/860a0c02-c763-41ca-9d31-ec787fc3202a/basket/Riyu44) |
-| Tushar-2510 | [19](https://github.com/Sopra-Banking-Software-Interns/Github-Leaderboard/commits?author=Tushar-2510) | [0](https://getpantry.cloud/apiv1/pantry/860a0c02-c763-41ca-9d31-ec787fc3202a/basket/Tushar-2510) |
+| Riyu44 | [23](https://github.com/Sopra-Banking-Software-Interns/Github-Leaderboard/commits?author=Riyu44) | [11](https://getpantry.cloud/apiv1/pantry/860a0c02-c763-41ca-9d31-ec787fc3202a/basket/Riyu44) |
+| Tushar-2510 | [20](https://github.com/Sopra-Banking-Software-Interns/Github-Leaderboard/commits?author=Tushar-2510) | [0](https://getpantry.cloud/apiv1/pantry/860a0c02-c763-41ca-9d31-ec787fc3202a/basket/Tushar-2510) |
 <!--END_TABLE-->
