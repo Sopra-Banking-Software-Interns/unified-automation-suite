@@ -39,7 +39,8 @@ You are good to go.
 - [@navvay](https://github.com/navvay)
 
 
-## Github-Leaderboard- [Mon Jun 26 06:27:58 UTC 2023](https://us-central1-js-capstone-backend.cloudfunctions.net/api/games/MpNkopuyhGBG77kL9xm1/scores/)
+## Github-Leaderboard- 
+[Mon Jun 26 06:27:58 UTC 2023](https://us-central1-js-capstone-backend.cloudfunctions.net/api/games/MpNkopuyhGBG77kL9xm1/scores/)
 <!--START_TABLE-->
 | Login        | Contributions | Solved Issues |
 | ------------ | ------------- | ------------- |
