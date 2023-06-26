@@ -40,7 +40,7 @@ You are good to go.
 
 
 ## Github-Leaderboard- 
-[Mon Jun 26 06:27:58 UTC 2023](https://us-central1-js-capstone-backend.cloudfunctions.net/api/games/MpNkopuyhGBG77kL9xm1/scores/)
+Here's a list of all the previous data tables, hosted over cloud storage
 - [Mon Jun 26 06:30:11 UTC 2023](https://us-central1-js-capstone-backend.cloudfunctions.net/api/games/MkeJuO6lRsuW2scFnjX8/scores/)
 - [Mon Jun 26 06:30:47 UTC 2023](https://us-central1-js-capstone-backend.cloudfunctions.net/api/games/kJuDADR9eah8jkU55mK8/scores/)
 <!--START_TABLE-->
