@@ -2,6 +2,7 @@
 This repo contains a GitHub automation suite which can create technical instances, implement them and maintains a version control over the contribution using Cloud storage
 
 ## Github-Leaderboard- [Mon Jun 26 06:24:56 UTC 2023](https://us-central1-js-capstone-backend.cloudfunctions.net/api/games/pZ7GPSXVTg8ipk6TU9fC/scores/)
+- [Mon Jun 26 06:25:59 UTC 2023](https://us-central1-js-capstone-backend.cloudfunctions.net/api/games/CJd0jP97kKuEBWzJrhN1/scores/)
 <!--START_TABLE-->
 | Login        | Contributions | Solved Issues |
 | ------------ | ------------- | ------------- |
