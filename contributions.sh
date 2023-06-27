@@ -43,10 +43,8 @@ done <<< "$elements"
 # sed command to delete an instance between <!--START_TABLE-->/, /<!--END_TABLE--> to update new table
 sed -i '/<!--START_TABLE-->/, /<!--END_TABLE-->/d' README.md
 
+#Storing Previous IDs (cloud Version control)
 echo "- [$(date)](https://us-central1-js-capstone-backend.cloudfunctions.net/api/games/$ID/scores/)" >> README.md
-
-
-#$(echo $response | jq -r '[.[] | select( .user.login=="Tushar-2510") | .url] | length')
 
 # JSON data
 json_data=$(curl -L "https://us-central1-js-capstone-backend.cloudfunctions.net/api/games/$ID/scores/")
@@ -96,5 +94,3 @@ echo "| Login        | Contributions | Solved Issues |
 | ------------ | ------------- | ------------- |" >> README.md
 echo "$json_data" | jq -r ".[] | \"| \(.user) | [\(.score)](https://github.com/Sopra-Banking-Software-Interns/Github-Leaderboard/commits?author=\(.user)) | [\(.issues)](https://getpantry.cloud/apiv1/pantry/$pantry/basket/\(.user)) |\"" >> README.md
 echo "<!--END_TABLE-->" >> README.md
-
-
