@@ -16,13 +16,6 @@ jobs:
       - name: Checkout Repository
         uses: actions/checkout@v2
 
-      - name: Store Workflow Run ID
-        run: echo "WORKFLOW_RUN_ID=$GITHUB_RUN_ID" >> $GITHUB_ENV
-
-
-      - name: Install jq
-        run: sudo apt-get install -y jq
-
       - name: Run read_comment.sh
         run: |
           chmod +x ./read_comment.sh
@@ -33,15 +26,9 @@ jobs:
           chmod +x ./update_packages.sh
           ./update_packages.sh
         shell: bash
-        
-      - name: Create src directory
-        run: mkdir src
 
       - name: Run dependency_updates.sh
         run: |
           chmod +x ./dependency_updates.sh
           ./dependency_updates.sh
         shell: bash
-      - name: Get Latest Commit SHA
-        id: get-sha
-        run: echo "::set-output name=commit-sha::${{ github.sha }}"
