@@ -47,10 +47,11 @@ Here's a list of all the previous data tables, hosted over cloud storage
 - [Wed Jun 28 06:54:21 UTC 2023](https://us-central1-js-capstone-backend.cloudfunctions.net/api/games/hfOQhMx6twPvQv05vOzN/scores/)
 - [Wed Jun 28 06:57:13 UTC 2023](https://us-central1-js-capstone-backend.cloudfunctions.net/api/games/3ZpjY9XK6y5XWq1FTRPM/scores/)
 - [Wed Jun 28 06:58:35 UTC 2023](https://us-central1-js-capstone-backend.cloudfunctions.net/api/games/JjhCJx2qVIPfJdRBfyRj/scores/)
+- [Wed Jun 28 07:01:08 UTC 2023](https://us-central1-js-capstone-backend.cloudfunctions.net/api/games/ytAAOIuN7YwF4YEhGqTq/scores/)
 <!--START_TABLE-->
 | Login        | Contributions | Solved Issues |
 | ------------ | ------------- | ------------- |
-| Riyu44 | [89](https://github.com/Sopra-Banking-Software-Interns/Github-Leaderboard/commits?author=Riyu44) | [30](https://getpantry.cloud/apiv1/pantry/860a0c02-c763-41ca-9d31-ec787fc3202a/basket/Riyu44) |
-| Tushar-2510 | [81](https://github.com/Sopra-Banking-Software-Interns/Github-Leaderboard/commits?author=Tushar-2510) | [0](https://getpantry.cloud/apiv1/pantry/860a0c02-c763-41ca-9d31-ec787fc3202a/basket/Tushar-2510) |
+| Riyu44 | [79](https://github.com/Sopra-Banking-Software-Interns/Github-Leaderboard/commits?author=Riyu44) | [30](https://getpantry.cloud/apiv1/pantry/860a0c02-c763-41ca-9d31-ec787fc3202a/basket/Riyu44) |
+| Tushar-2510 | [75](https://github.com/Sopra-Banking-Software-Interns/Github-Leaderboard/commits?author=Tushar-2510) | [0](https://getpantry.cloud/apiv1/pantry/860a0c02-c763-41ca-9d31-ec787fc3202a/basket/Tushar-2510) |
 | CodePrakhar | [4](https://github.com/Sopra-Banking-Software-Interns/Github-Leaderboard/commits?author=CodePrakhar) | [0](https://getpantry.cloud/apiv1/pantry/860a0c02-c763-41ca-9d31-ec787fc3202a/basket/CodePrakhar) |
 <!--END_TABLE-->
