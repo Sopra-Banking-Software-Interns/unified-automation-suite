@@ -71,12 +71,5 @@ Here's a list of all the previous data tables, hosted over cloud storage
 - [Wed Jun 28 07:30:58 UTC 2023](https://us-central1-js-capstone-backend.cloudfunctions.net/api/games/QhhEgXRm9XKo3cANaXWU/scores/)
 - [Wed Jun 28 09:08:49 UTC 2023](https://us-central1-js-capstone-backend.cloudfunctions.net/api/games/QYXQYvGizCzAFdzGfdCd/scores/)
 - [Wed Jun 28 09:12:07 UTC 2023](https://us-central1-js-capstone-backend.cloudfunctions.net/api/games/ggw17MtHhpn3xWfSC4XR/scores/)
-- [Wed Jun 28 09:21:59 UTC 2023](https://us-central1-js-capstone-backend.cloudfunctions.net/api/games/2JKD7Z5zMMHwurQI1EFE/scores/)
-- [Wed Jun 28 09:22:18 UTC 2023](https://us-central1-js-capstone-backend.cloudfunctions.net/api/games/iefWdIq6SrIMNBHDgL23/scores/)
-<!--START_TABLE-->
-| Login        | Contributions | Solved Issues |
-| ------------ | ------------- | ------------- |
-| Riyu44 | [131](https://github.com/Sopra-Banking-Software-Interns/Github-Leaderboard/commits?author=Riyu44) | [30](https://getpantry.cloud/apiv1/pantry/860a0c02-c763-41ca-9d31-ec787fc3202a/basket/Riyu44) |
-| Tushar-2510 | [94](https://github.com/Sopra-Banking-Software-Interns/Github-Leaderboard/commits?author=Tushar-2510) | [0](https://getpantry.cloud/apiv1/pantry/860a0c02-c763-41ca-9d31-ec787fc3202a/basket/Tushar-2510) |
 | CodePrakhar | [4](https://github.com/Sopra-Banking-Software-Interns/Github-Leaderboard/commits?author=CodePrakhar) | [0](https://getpantry.cloud/apiv1/pantry/860a0c02-c763-41ca-9d31-ec787fc3202a/basket/CodePrakhar) |
 <!--END_TABLE-->
