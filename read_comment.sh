@@ -16,7 +16,7 @@ API="https://api.github.com"
 closed_issues=$(curl -sSL -H "Authorization: token $TOKEN" "$API/repos/$USERNAME/$REPO/issues?state=closed&per_page=100")
 
 # Check if closed_issues is empty
-if [[ -z "$closed_issues" ]]; then
+if [[ "$closed_issues" == "" ]]; then
     echo "No closed issues found."
     exit 0
 fi
