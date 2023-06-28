@@ -41,20 +41,6 @@ You are good to go.
 
 ## Github-Leaderboard- 
 Here's a list of all the previous data tables, hosted over cloud storage
-- [Mon Jun 26 06:30:11 UTC 2023](https://us-central1-js-capstone-backend.cloudfunctions.net/api/games/MkeJuO6lRsuW2scFnjX8/scores/)
-- [Mon Jun 26 06:30:47 UTC 2023](https://us-central1-js-capstone-backend.cloudfunctions.net/api/games/kJuDADR9eah8jkU55mK8/scores/)
-- [Mon Jun 26 06:33:02 UTC 2023](https://us-central1-js-capstone-backend.cloudfunctions.net/api/games/j8kxlCBCo03YlmxNHMeU/scores/)
-- [Mon Jun 26 06:36:50 UTC 2023](https://us-central1-js-capstone-backend.cloudfunctions.net/api/games/J2IYgdjARIE6GNBpN8dU/scores/)
-- [Mon Jun 26 06:37:02 UTC 2023](https://us-central1-js-capstone-backend.cloudfunctions.net/api/games/4x52XCir4K3lsXmX8uvx/scores/)
-- [Tue Jun 27 05:35:15 UTC 2023](https://us-central1-js-capstone-backend.cloudfunctions.net/api/games/9jZvrUMTMgdveAl8908s/scores/)
-- [Tue Jun 27 05:40:45 UTC 2023](https://us-central1-js-capstone-backend.cloudfunctions.net/api/games/ZlDeZgZ6X97c1llUvOIu/scores/)
-- [Tue Jun 27 05:45:51 UTC 2023](https://us-central1-js-capstone-backend.cloudfunctions.net/api/games/4Pdzt67BppFUtGR0DZuw/scores/)
-- [Tue Jun 27 06:29:24 UTC 2023](https://us-central1-js-capstone-backend.cloudfunctions.net/api/games/aVjlEmvDKNPBCaoxIQd0/scores/)
-- [Tue Jun 27 09:51:09 UTC 2023](https://us-central1-js-capstone-backend.cloudfunctions.net/api/games/hwNYXEj4zvHD80c9kd1y/scores/)
-- [Tue Jun 27 09:51:29 UTC 2023](https://us-central1-js-capstone-backend.cloudfunctions.net/api/games/7QkS93XVWmmhqfFV2uO0/scores/)
-- [Tue Jun 27 09:52:02 UTC 2023](https://us-central1-js-capstone-backend.cloudfunctions.net/api/games/SnAcrOkdlgxhUhzdANdn/scores/)
-- [Tue Jun 27 09:52:35 UTC 2023](https://us-central1-js-capstone-backend.cloudfunctions.net/api/games/XWg1OxHkUHSKJ6arjnpe/scores/)
-- [Tue Jun 27 09:55:21 UTC 2023](https://us-central1-js-capstone-backend.cloudfunctions.net/api/games/BA227f2VPo8OfXXBaTuz/scores/)
 - [Tue Jun 27 09:56:07 UTC 2023](https://us-central1-js-capstone-backend.cloudfunctions.net/api/games/aZ2yfidLlHidpfchYac8/scores/)
 - [Tue Jun 27 09:56:45 UTC 2023](https://us-central1-js-capstone-backend.cloudfunctions.net/api/games/EpKBignCv1zSRXwqvIhb/scores/)
 - [Tue Jun 27 09:59:29 UTC 2023](https://us-central1-js-capstone-backend.cloudfunctions.net/api/games/KedSooEx7x7iv3Yd9VXn/scores/)
