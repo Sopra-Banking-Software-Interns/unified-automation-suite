@@ -10,7 +10,7 @@ This workflow has the following components:
   Incident creation workflow utilizes the depencies folder and creates incidents if the version being used currently is outdated. Currently the workflow is configured for package.json and npm modules.
 
 - #### Incident Closure
-  Once the incident is created, this workflow waits for its closure. Once the issue is closed using '~UPD' tag, followed by updates needed, it updates all the dependencies to their latest version on the deployment server (Currently on the Github runner on which the scripts are ran).
+  Once the incident is created, this workflow waits for its closure. Once the isse is closed using '~UPD' tag, followed by updates needed, it updates all the dependencies to their latest version on the deployment server (Currently on the Github runner on which the scripts are ran).
 
 All the three workflows run using CI-CD pipeline and Github actions and thus, can act as an add-on to any existing repos.
 ## Deployment
@@ -41,23 +41,35 @@ You are good to go.
 
 ## Github-Leaderboard- 
 Here's a list of all the previous data tables, hosted over cloud storage
-- [Wed Jun 28 05:49:03 UTC 2023](https://us-central1-js-capstone-backend.cloudfunctions.net/api/games/pcbIJ0KNrBxfYFoElxLI/scores/)
-- [Wed Jun 28 06:51:21 UTC 2023](https://us-central1-js-capstone-backend.cloudfunctions.net/api/games/EXpXzyNIGa7kwaMpIhoK/scores/)
-- [Wed Jun 28 06:52:08 UTC 2023](https://us-central1-js-capstone-backend.cloudfunctions.net/api/games/KcJsjFQq8cNJZn6EzDf2/scores/)
-- [Wed Jun 28 06:54:21 UTC 2023](https://us-central1-js-capstone-backend.cloudfunctions.net/api/games/hfOQhMx6twPvQv05vOzN/scores/)
-- [Wed Jun 28 06:57:13 UTC 2023](https://us-central1-js-capstone-backend.cloudfunctions.net/api/games/3ZpjY9XK6y5XWq1FTRPM/scores/)
-- [Wed Jun 28 06:58:35 UTC 2023](https://us-central1-js-capstone-backend.cloudfunctions.net/api/games/JjhCJx2qVIPfJdRBfyRj/scores/)
-- [Wed Jun 28 07:01:08 UTC 2023](https://us-central1-js-capstone-backend.cloudfunctions.net/api/games/ytAAOIuN7YwF4YEhGqTq/scores/)
-- [Wed Jun 28 07:12:32 UTC 2023](https://us-central1-js-capstone-backend.cloudfunctions.net/api/games/G5xe8OhcuXuCpHjFO7T8/scores/)
-- [Wed Jun 28 07:14:19 UTC 2023](https://us-central1-js-capstone-backend.cloudfunctions.net/api/games/liLZsTd6alvma0gVnrM6/scores/)
-- [Wed Jun 28 07:15:44 UTC 2023](https://us-central1-js-capstone-backend.cloudfunctions.net/api/games/sDVC9rxLufQ9Xo9CXum4/scores/)
-- [Wed Jun 28 07:16:26 UTC 2023](https://us-central1-js-capstone-backend.cloudfunctions.net/api/games/cWxYdYwt1lcHS89Fyahc/scores/)
-- [Wed Jun 28 07:18:23 UTC 2023](https://us-central1-js-capstone-backend.cloudfunctions.net/api/games/39LyURpuMzw5xCfmgAqx/scores/)
-- [Wed Jun 28 07:19:47 UTC 2023](https://us-central1-js-capstone-backend.cloudfunctions.net/api/games/jvxh5LR1QAxwfjmtd1K0/scores/)
+- [Mon Jun 26 06:30:11 UTC 2023](https://us-central1-js-capstone-backend.cloudfunctions.net/api/games/MkeJuO6lRsuW2scFnjX8/scores/)
+- [Mon Jun 26 06:30:47 UTC 2023](https://us-central1-js-capstone-backend.cloudfunctions.net/api/games/kJuDADR9eah8jkU55mK8/scores/)
+- [Mon Jun 26 06:33:02 UTC 2023](https://us-central1-js-capstone-backend.cloudfunctions.net/api/games/j8kxlCBCo03YlmxNHMeU/scores/)
+- [Mon Jun 26 06:36:50 UTC 2023](https://us-central1-js-capstone-backend.cloudfunctions.net/api/games/J2IYgdjARIE6GNBpN8dU/scores/)
+- [Mon Jun 26 06:37:02 UTC 2023](https://us-central1-js-capstone-backend.cloudfunctions.net/api/games/4x52XCir4K3lsXmX8uvx/scores/)
+- [Tue Jun 27 05:35:15 UTC 2023](https://us-central1-js-capstone-backend.cloudfunctions.net/api/games/9jZvrUMTMgdveAl8908s/scores/)
+- [Tue Jun 27 05:40:45 UTC 2023](https://us-central1-js-capstone-backend.cloudfunctions.net/api/games/ZlDeZgZ6X97c1llUvOIu/scores/)
+- [Tue Jun 27 05:45:51 UTC 2023](https://us-central1-js-capstone-backend.cloudfunctions.net/api/games/4Pdzt67BppFUtGR0DZuw/scores/)
+- [Tue Jun 27 06:29:24 UTC 2023](https://us-central1-js-capstone-backend.cloudfunctions.net/api/games/aVjlEmvDKNPBCaoxIQd0/scores/)
+- [Tue Jun 27 09:51:09 UTC 2023](https://us-central1-js-capstone-backend.cloudfunctions.net/api/games/hwNYXEj4zvHD80c9kd1y/scores/)
+- [Tue Jun 27 09:51:29 UTC 2023](https://us-central1-js-capstone-backend.cloudfunctions.net/api/games/7QkS93XVWmmhqfFV2uO0/scores/)
+- [Tue Jun 27 09:52:02 UTC 2023](https://us-central1-js-capstone-backend.cloudfunctions.net/api/games/SnAcrOkdlgxhUhzdANdn/scores/)
+- [Tue Jun 27 09:52:35 UTC 2023](https://us-central1-js-capstone-backend.cloudfunctions.net/api/games/XWg1OxHkUHSKJ6arjnpe/scores/)
+- [Tue Jun 27 09:55:21 UTC 2023](https://us-central1-js-capstone-backend.cloudfunctions.net/api/games/BA227f2VPo8OfXXBaTuz/scores/)
+- [Tue Jun 27 09:56:07 UTC 2023](https://us-central1-js-capstone-backend.cloudfunctions.net/api/games/aZ2yfidLlHidpfchYac8/scores/)
+- [Tue Jun 27 09:56:45 UTC 2023](https://us-central1-js-capstone-backend.cloudfunctions.net/api/games/EpKBignCv1zSRXwqvIhb/scores/)
+- [Tue Jun 27 09:59:29 UTC 2023](https://us-central1-js-capstone-backend.cloudfunctions.net/api/games/KedSooEx7x7iv3Yd9VXn/scores/)
+- [Tue Jun 27 10:02:26 UTC 2023](https://us-central1-js-capstone-backend.cloudfunctions.net/api/games/aQHXmtCxgInZOdsR161R/scores/)
+- [Tue Jun 27 10:03:14 UTC 2023](https://us-central1-js-capstone-backend.cloudfunctions.net/api/games/rJolRAZEFEymHsugSTPL/scores/)
+- [Tue Jun 27 10:03:39 UTC 2023](https://us-central1-js-capstone-backend.cloudfunctions.net/api/games/qQka2U814V4O4OB5Cf9p/scores/)
+- [Tue Jun 27 10:14:36 UTC 2023](https://us-central1-js-capstone-backend.cloudfunctions.net/api/games/2cgm1ArXdxm1g2xLf0pn/scores/)
+- [Tue Jun 27 10:24:41 UTC 2023](https://us-central1-js-capstone-backend.cloudfunctions.net/api/games/jaQ11xiMLX036IDAI4Ph/scores/)
+- [Wed Jun 28 05:01:50 UTC 2023](https://us-central1-js-capstone-backend.cloudfunctions.net/api/games/slYwUpRs7egUOeGoORsR/scores/)
+- [Wed Jun 28 05:04:00 UTC 2023](https://us-central1-js-capstone-backend.cloudfunctions.net/api/games/5YJlqHZEnraoceIivtuD/scores/)
+- [Wed Jun 28 05:06:25 UTC 2023](https://us-central1-js-capstone-backend.cloudfunctions.net/api/games/NBAOO0vpEEEEPUlgFxP2/scores/)
+- [Wed Jun 28 05:09:39 UTC 2023](https://us-central1-js-capstone-backend.cloudfunctions.net/api/games/eF55weuWOKuMohABct2a/scores/)
 <!--START_TABLE-->
 | Login        | Contributions | Solved Issues |
 | ------------ | ------------- | ------------- |
-| Riyu44 | [89](https://github.com/Sopra-Banking-Software-Interns/Github-Leaderboard/commits?author=Riyu44) | [30](https://getpantry.cloud/apiv1/pantry/860a0c02-c763-41ca-9d31-ec787fc3202a/basket/Riyu44) |
-| Tushar-2510 | [81](https://github.com/Sopra-Banking-Software-Interns/Github-Leaderboard/commits?author=Tushar-2510) | [0](https://getpantry.cloud/apiv1/pantry/860a0c02-c763-41ca-9d31-ec787fc3202a/basket/Tushar-2510) |
-| CodePrakhar | [4](https://github.com/Sopra-Banking-Software-Interns/Github-Leaderboard/commits?author=CodePrakhar) | [0](https://getpantry.cloud/apiv1/pantry/860a0c02-c763-41ca-9d31-ec787fc3202a/basket/CodePrakhar) |
+| Riyu44 | [58](https://github.com/Sopra-Banking-Software-Interns/Github-Leaderboard/commits?author=Riyu44) | [29](https://getpantry.cloud/apiv1/pantry/860a0c02-c763-41ca-9d31-ec787fc3202a/basket/Riyu44) |
+| Tushar-2510 | [43](https://github.com/Sopra-Banking-Software-Interns/Github-Leaderboard/commits?author=Tushar-2510) | [0](https://getpantry.cloud/apiv1/pantry/860a0c02-c763-41ca-9d31-ec787fc3202a/basket/Tushar-2510) |
 <!--END_TABLE-->
