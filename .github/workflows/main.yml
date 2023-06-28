@@ -30,7 +30,7 @@ jobs:
           commitMessage="${{ steps.get-commit-message.outputs.commit-message }}"
           if [[ "$commitMessage" == "workflow2" ]]; then
             echo "Commit message is 'workflow2'. Stopping the workflow."
-            exit 1
+            exit 0
           else
             echo "Commit message is not 'workflow2'. Continuing with the workflow."
           fi
