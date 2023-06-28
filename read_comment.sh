@@ -22,8 +22,8 @@ if [[ -z "$closed_issues" ]]; then
 fi
 
 # Find the latest closed issue
-latest_closed_issue=$(echo "$closed_issues" | jq -r '[.[] | select(.comments | length > 0)] | sort_by(.updated_at) | last')
-
+latest_closed_issue=$(echo "$closed_issues" | jq -r '[.[] | select(.comments > 0)] | sort_by(.updated_at) | last')
+echo "$lastest_closed_issue"
 # Check if latest_closed_issue is empty
 if [[ -z "$latest_closed_issue" ]]; then
     echo "No latest closed issue with comments found."
