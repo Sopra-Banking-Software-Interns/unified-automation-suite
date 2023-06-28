@@ -47,16 +47,6 @@ Here's a list of all the previous data tables, hosted over cloud storage
 - [Tue Jun 27 10:02:26 UTC 2023](https://us-central1-js-capstone-backend.cloudfunctions.net/api/games/aQHXmtCxgInZOdsR161R/scores/)
 - [Tue Jun 27 10:03:14 UTC 2023](https://us-central1-js-capstone-backend.cloudfunctions.net/api/games/rJolRAZEFEymHsugSTPL/scores/)
 - [Tue Jun 27 10:03:39 UTC 2023](https://us-central1-js-capstone-backend.cloudfunctions.net/api/games/qQka2U814V4O4OB5Cf9p/scores/)
-- [Tue Jun 27 10:14:36 UTC 2023](https://us-central1-js-capstone-backend.cloudfunctions.net/api/games/2cgm1ArXdxm1g2xLf0pn/scores/)
-- [Tue Jun 27 10:24:41 UTC 2023](https://us-central1-js-capstone-backend.cloudfunctions.net/api/games/jaQ11xiMLX036IDAI4Ph/scores/)
-- [Wed Jun 28 05:01:50 UTC 2023](https://us-central1-js-capstone-backend.cloudfunctions.net/api/games/slYwUpRs7egUOeGoORsR/scores/)
-- [Wed Jun 28 05:04:00 UTC 2023](https://us-central1-js-capstone-backend.cloudfunctions.net/api/games/5YJlqHZEnraoceIivtuD/scores/)
-- [Wed Jun 28 05:06:25 UTC 2023](https://us-central1-js-capstone-backend.cloudfunctions.net/api/games/NBAOO0vpEEEEPUlgFxP2/scores/)
-- [Wed Jun 28 05:09:39 UTC 2023](https://us-central1-js-capstone-backend.cloudfunctions.net/api/games/eF55weuWOKuMohABct2a/scores/)
-- [Wed Jun 28 05:11:51 UTC 2023](https://us-central1-js-capstone-backend.cloudfunctions.net/api/games/hl5UZTRO6kL14bVtOaw0/scores/)
-- [Wed Jun 28 05:12:46 UTC 2023](https://us-central1-js-capstone-backend.cloudfunctions.net/api/games/mMLKmWha62GphzbY6rSd/scores/)
-- [Wed Jun 28 05:13:54 UTC 2023](https://us-central1-js-capstone-backend.cloudfunctions.net/api/games/GHnP52zObJ8aJKmDTSyR/scores/)
-- [Wed Jun 28 05:15:00 UTC 2023](https://us-central1-js-capstone-backend.cloudfunctions.net/api/games/AADTPNhKJQFfMrIM1O6Y/scores/)
 <!--START_TABLE-->
 | Login        | Contributions | Solved Issues |
 | ------------ | ------------- | ------------- |
