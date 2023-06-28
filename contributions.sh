@@ -23,7 +23,7 @@ json=$(cat contribution_final.json)
 OWNER="Sopra-Banking-Software-Interns"
 REPO="unified-automation-suite"
 
-# Make a request to fetch the contributor's information
+# Make a request to fetch closed issues of a contributor
 response=$(curl -s -L \
    -H "Accept: application/vnd.github+json" \
    -H "Authorization: Bearer $token" \
@@ -46,21 +46,16 @@ sed -i '/<!--START_TABLE-->/, /<!--END_TABLE-->/d' README.md
 #Storing Previous IDs (cloud Version control)
 echo "- [$(date)](https://us-central1-js-capstone-backend.cloudfunctions.net/api/games/$ID/scores/)" >> README.md
 
-# JSON data
-json_data=$(curl -L "https://us-central1-js-capstone-backend.cloudfunctions.net/api/games/$ID/scores/")
-json_data=$(echo "$json_data" | jq -r '.result | sort_by(-.score)')
-echo "$json_data" > contribution_final.json
+
+# Storing Html url of solved issues for every user in a cloud through cloud API
+# Created issues.json which contains issue no.s solved for every user 
 touch temp.txt
 jq '.[] | .user' "contribution_final.json" > temp.txt
-
 linenumber=$(sed -n '$=' temp.txt)
-#echo $linenumber
 touch issue.txt
-
 for (( x=1; x<=$linenumber; x++ ))
 do
 linew=$(sed -n "${x}p" temp.txt)
-#echo $linew
 echo "{\"user\":$linew," >>issue.txt
 echo "\"issues\":" >>issue.txt
 arr[x-1]=$(echo $response | jq "[.[] | select(.user.login==$linew) | .url] | length")
@@ -76,9 +71,10 @@ rm url.txt
 rm data1.json
 echo "${arr[x-1]}}" >> issue.txt
 done
-
 jq -s '.' issue.txt > issue.json
 rm issue.txt
+
+# Combined issues.json with contribution_final.json thus making our json data with 3 fields(User,contributions,solved issues) for an object
 echo "$(jq -s 'group_by(.[].user) | map(add)[]' contribution_final.json issue.json)" > data.json
 echo "$(jq 'group_by(.user) | map(add)[]' data.json)" > final.txt
 jq -s '.' final.txt > contribution_final.json
@@ -87,10 +83,13 @@ rm final.txt
 rm issue.json
 rm data.json
 rm temp.txt
+# sorted the table
 json_data=$(echo "$json_data" | jq -r '. | sort_by(-.score)')
-# Loop through JSON array
+
+# Creating the markup language from Readme
 echo "<!--START_TABLE-->" >> README.md
 echo "| Login        | Contributions | Solved Issues |
 | ------------ | ------------- | ------------- |" >> README.md
+# Loop through JSON array and write markup language format to make a table out of user, contributions & issues. Also stored embedded links
 echo "$json_data" | jq -r ".[] | \"| \(.user) | [\(.score)](https://github.com/Sopra-Banking-Software-Interns/Github-Leaderboard/commits?author=\(.user)) | [\(.issues)](https://getpantry.cloud/apiv1/pantry/$pantry/basket/\(.user)) |\"" >> README.md
 echo "<!--END_TABLE-->" >> README.md
