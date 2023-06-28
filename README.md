@@ -10,7 +10,7 @@ This workflow has the following components:
   Incident creation workflow utilizes the depencies folder and creates incidents if the version being used currently is outdated. Currently the workflow is configured for package.json and npm modules.
 
 - #### Incident Closure
-  Once the incident is created, this workflow waits for its closure. Once the isse is closed using '~UPD' tag, followed by updates needed, it updates all the dependencies to their latest version on the deployment server (Currently on the Github runner on which the scripts are ran).
+  Once the incident is created, this workflow waits for its closure. Once the issue is closed using '~UPD' tag, followed by updates needed, it updates all the dependencies to their latest version on the deployment server (Currently on the Github runner on which the scripts are ran).
 
 All the three workflows run using CI-CD pipeline and Github actions and thus, can act as an add-on to any existing repos.
 ## Deployment
