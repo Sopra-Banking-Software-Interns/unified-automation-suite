@@ -42,7 +42,6 @@ You are good to go.
 ## Github-Leaderboard- 
 Here's a list of all the previous data tables, hosted over cloud storage
 - [Tue Jun 27 09:56:07 UTC 2023](https://us-central1-js-capstone-backend.cloudfunctions.net/api/games/aZ2yfidLlHidpfchYac8/scores/)
-- [Tue Jun 27 09:56:45 UTC 2023](https://us-central1-js-capstone-backend.cloudfunctions.net/api/games/EpKBignCv1zSRXwqvIhb/scores/)
 - [Tue Jun 27 09:59:29 UTC 2023](https://us-central1-js-capstone-backend.cloudfunctions.net/api/games/KedSooEx7x7iv3Yd9VXn/scores/)
 - [Tue Jun 27 10:02:26 UTC 2023](https://us-central1-js-capstone-backend.cloudfunctions.net/api/games/aQHXmtCxgInZOdsR161R/scores/)
 - [Tue Jun 27 10:03:14 UTC 2023](https://us-central1-js-capstone-backend.cloudfunctions.net/api/games/rJolRAZEFEymHsugSTPL/scores/)
