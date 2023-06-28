@@ -16,7 +16,7 @@ API="https://api.github.com"
 closed_issues=$(curl -sSL -H "Authorization: token $TOKEN" "$API/repos/$USERNAME/$REPO/issues?state=closed&per_page=100")
 
 # Check if closed_issues is empty
-if [[ "$closed_issues" == "" ]]; then
+if [[ -z "$closed_issues"  ]]; then
     echo "No closed issues found."
     exit 0
 fi
@@ -25,7 +25,7 @@ fi
 latest_closed_issue=$(echo "$closed_issues" | jq -r '[.[] | select(.comments > 0)] | sort_by(.updated_at) | last')
 echo "$lastest_closed_issue"
 # Check if latest_closed_issue is empty
-if [[ -z "$latest_closed_issue" ]]; then
+if [[ "$latest_closed_issue" == "" ]]; then
     echo "No latest closed issue with comments found."
     exit 0
 fi
