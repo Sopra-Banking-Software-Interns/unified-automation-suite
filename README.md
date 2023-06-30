@@ -60,6 +60,7 @@ Here's a list of all the previous data tables, hosted over cloud storage
 - [Fri Jun 30 11:24:43 UTC 2023](https://us-central1-js-capstone-backend.cloudfunctions.net/api/games/a13APhvfA92zLc39Ls7g/scores/)
 - [Fri Jun 30 11:25:27 UTC 2023](https://us-central1-js-capstone-backend.cloudfunctions.net/api/games/pf5rMQHrTm2qe59VBGsT/scores/)
 - [Fri Jun 30 11:26:36 UTC 2023](https://us-central1-js-capstone-backend.cloudfunctions.net/api/games/xC2PEBBsHb5rP7CZBj6p/scores/)
+- [Fri Jun 30 11:28:12 UTC 2023](https://us-central1-js-capstone-backend.cloudfunctions.net/api/games/k6wMgPAuJIAcRXIP7dM0/scores/)
 <!--START_TABLE-->
 | Login        | Contributions | Solved Issues |
 | ------------ | ------------- | ------------- |
