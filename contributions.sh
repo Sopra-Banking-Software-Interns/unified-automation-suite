@@ -1,5 +1,4 @@
 #GET the contributors list from GIT Hub
-REPO="Sopra-Banking-Software-Interns/Github-Learderboard"
 curl -s -L \
   -H "Accept: application/vnd.github+json" \
   -H "Authorization: Bearer $token"\
