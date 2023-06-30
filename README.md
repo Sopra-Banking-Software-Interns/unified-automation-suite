@@ -64,10 +64,11 @@ Here's a list of all the previous data tables, hosted over cloud storage
 - [Fri Jun 30 11:31:29 UTC 2023](https://us-central1-js-capstone-backend.cloudfunctions.net/api/games/k8I74dr0TTSHpPyG3xoZ/scores/)
 - [Fri Jun 30 11:35:33 UTC 2023](https://us-central1-js-capstone-backend.cloudfunctions.net/api/games/TCwkcXazEtIfLn3rETMP/scores/)
 - [Fri Jun 30 11:36:29 UTC 2023](https://us-central1-js-capstone-backend.cloudfunctions.net/api/games/NlwA5U6dQlRu1JEl8wxt/scores/)
+- [Fri Jun 30 11:41:02 UTC 2023](https://us-central1-js-capstone-backend.cloudfunctions.net/api/games/FuUBbB26hWtsH4irSVfD/scores/)
 <!--START_TABLE-->
 | Login        | Contributions | Solved Issues |
 | ------------ | ------------- | ------------- |
-| Riyu44 | [151](https://github.com/Sopra-Banking-Software-Interns/Github-Leaderboard/commits?author=Riyu44) | [28](https://getpantry.cloud/apiv1/pantry/860a0c02-c763-41ca-9d31-ec787fc3202a/basket/Riyu44) |
-| Tushar-2510 | [116](https://github.com/Sopra-Banking-Software-Interns/Github-Leaderboard/commits?author=Tushar-2510) | [2](https://getpantry.cloud/apiv1/pantry/860a0c02-c763-41ca-9d31-ec787fc3202a/basket/Tushar-2510) |
-| CodePrakhar | [4](https://github.com/Sopra-Banking-Software-Interns/Github-Leaderboard/commits?author=CodePrakhar) | [0](https://getpantry.cloud/apiv1/pantry/860a0c02-c763-41ca-9d31-ec787fc3202a/basket/CodePrakhar) |
+| Riyu44 | [154](https://github.com/Sopra-Banking-Software-Interns/Github-Leaderboard/commits?author=Riyu44) | [28](https://getpantry.cloud/apiv1/pantry/860a0c02-c763-41ca-9d31-ec787fc3202a/basket/Riyu44) |
+| Tushar-2510 | [126](https://github.com/Sopra-Banking-Software-Interns/Github-Leaderboard/commits?author=Tushar-2510) | [2](https://getpantry.cloud/apiv1/pantry/860a0c02-c763-41ca-9d31-ec787fc3202a/basket/Tushar-2510) |
+| CodePrakhar | [5](https://github.com/Sopra-Banking-Software-Interns/Github-Leaderboard/commits?author=CodePrakhar) | [0](https://getpantry.cloud/apiv1/pantry/860a0c02-c763-41ca-9d31-ec787fc3202a/basket/CodePrakhar) |
 <!--END_TABLE-->
