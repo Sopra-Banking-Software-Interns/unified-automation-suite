@@ -12,7 +12,7 @@ This workflow has the following components:
 - #### Incident Closure
   Once the incident is created, this workflow waits for its closure. Once the isse is closed using '~UPD' tag, followed by updates needed, it updates all the dependencies to their latest version on the deployment server (Currently on the Github runner on which the scripts are ran).
   
-- #### Issue reminder
+- #### Issue Reminder
   A notification in form of issue comment is sent to assignees if their issue has been opened for >2 days. This late-check time can altered as per the need.
 
 All the three workflows run using CI-CD pipeline and Github actions and thus, can act as an add-on to any existing repos.
