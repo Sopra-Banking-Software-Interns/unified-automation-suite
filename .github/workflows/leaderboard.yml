@@ -19,6 +19,11 @@ jobs:
         chmod +x ./contributions.sh
         ./contributions.sh
       shell: bash
+    - name: Update hosted dashboard
+      run: |
+        chmod +x ./update_leader_dashboard.sh
+        ./update_leader_dashboard.sh
+      shell: bash
     - name: commit changes
       run: |
           git config --global user.email "tusharsao25@gmail.com"
