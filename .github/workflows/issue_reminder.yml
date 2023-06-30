@@ -6,17 +6,20 @@ name: Trigger Workflow in 2 days
 on:
   workflow_dispatch:
   schedule:
-    - cron: "0 0 */1 * *"
+    - cron: "0 0 */2 * *"
 
 jobs:
   run_tests:
     runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@v2
-    - name: Run script file
+    - name: Run Open_issues_alert file
       run: |
         chmod +x ./open_issues_Alert1.sh
         ./open_issues_Alert1.sh
-        chmod +x ./reminder_comment.sh
-        ./reminder_comment.sh
+      shell: bash
+    - name: Run Read_commit file      
+      run: |
+        chmod +x reminder_comment.sh
+        ./open_issues_Alert1.sh
       shell: bash
