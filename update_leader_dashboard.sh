@@ -1,13 +1,9 @@
-GITHUB_USERNAME="Riyu44"
-GITHUB_TOKEN=$token
-# Get the current SHA of the package.json file
-current_sha=$(curl -s -u "$GITHUB_USERNAME:$GITHUB_TOKEN" "https://api.github.com/repos/Sopra-Banking-Software-Interns/Sopra-Banking-Software-Interns.github.io/contents/text" | jq -r '.sha')
+curl -s -u "Riyu44:$token" "https://api.github.com/repos/Sopra-Banking-Software-Interns/Sopra-Banking-Software-Interns.github.io/contents/text" | jq -r '.sha'
 
-# Make a PUT request to the GitHub API to update the package.json file
-curl -X PUT -u "$GITHUB_USERNAME:$GITHUB_TOKEN" \
+curl -X PUT -u "Riyu44:$token" \
   -H "Accept: application/vnd.github+json" \
   -d '{
     "message": "workflow2",
-    "content": "'"$encoded_package_json"'",
-    "sha": "'"$current_sha"'"
-  }' "https://api.github.com/repos/$REPO_OWNER/$REPO_NAME/contents/text"
+    "content": "",
+    "sha": "0d5a690c8fad5e605a6e8766295d9d459d65de42"
+  }' "https://api.github.com/repos/Sopra-Banking-Software-Interns/Sopra-Banking-Software-Interns.github.io/contents/text"
