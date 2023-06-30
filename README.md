@@ -11,6 +11,9 @@ This workflow has the following components:
 
 - #### Incident Closure
   Once the incident is created, this workflow waits for its closure. Once the isse is closed using '~UPD' tag, followed by updates needed, it updates all the dependencies to their latest version on the deployment server (Currently on the Github runner on which the scripts are ran).
+  
+- #### Issue reminder
+  A notification in form of issue comment is sent to assignees if their issue has been opened for >2 days. This late-check time can altered as per the need.
 
 All the three workflows run using CI-CD pipeline and Github actions and thus, can act as an add-on to any existing repos.
 ## Deployment
@@ -65,7 +68,6 @@ Here's a list of all the previous data tables, hosted over cloud storage
 - [Fri Jun 30 11:35:33 UTC 2023](https://us-central1-js-capstone-backend.cloudfunctions.net/api/games/TCwkcXazEtIfLn3rETMP/scores/)
 - [Fri Jun 30 11:36:29 UTC 2023](https://us-central1-js-capstone-backend.cloudfunctions.net/api/games/NlwA5U6dQlRu1JEl8wxt/scores/)
 - [Fri Jun 30 11:41:02 UTC 2023](https://us-central1-js-capstone-backend.cloudfunctions.net/api/games/FuUBbB26hWtsH4irSVfD/scores/)
-- [Fri Jun 30 11:43:58 UTC 2023](https://us-central1-js-capstone-backend.cloudfunctions.net/api/games/jGKtYvGfsEnHJpTPtzGY/scores/)
 <!--START_TABLE-->
 | Login        | Contributions | Solved Issues |
 | ------------ | ------------- | ------------- |
