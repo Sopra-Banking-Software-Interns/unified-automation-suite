@@ -15,7 +15,7 @@ OWNER="Sopra-Banking-Software-Interns"
 REPO="unified-automation-suite"
 
 # Loop through the issues and add the comment
-for x in $(echo "$ISSUES" | jq -r '.[]'); do
+for x in $(echo "$ISSUES" | jq -r '.[] | @base64'); do
   # Extract the issue details
   issue=$(echo "$x" | base64 --decode)
   echo "Issue: $issue"
