@@ -11,5 +11,6 @@ json_file="data.json"
 filtered_data=$(jq --arg two_days_ago "$two_days_ago" '.[] | select(.created_at < $two_days_ago) | {"url": .html_url,"assignees": .assignees}' "$json_file")
 echo "$filtered_data" > data2.txt
 jq -s '.' data2.txt > open_issues.json
+echo "$(cat $open_issues.json)"
 rm data2.txt
 rm data.json
