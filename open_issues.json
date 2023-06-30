@@ -1,0 +1,67 @@
+[
+  {
+    "url": "https://github.com/Sopra-Banking-Software-Interns/unified-automation-suite/issues/115",
+    "assignees": [
+      {
+        "login": "CodePrakhar",
+        "id": 91960314,
+        "node_id": "U_kgDOBXsz-g",
+        "avatar_url": "https://avatars.githubusercontent.com/u/91960314?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/CodePrakhar",
+        "html_url": "https://github.com/CodePrakhar",
+        "followers_url": "https://api.github.com/users/CodePrakhar/followers",
+        "following_url": "https://api.github.com/users/CodePrakhar/following{/other_user}",
+        "gists_url": "https://api.github.com/users/CodePrakhar/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/CodePrakhar/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/CodePrakhar/subscriptions",
+        "organizations_url": "https://api.github.com/users/CodePrakhar/orgs",
+        "repos_url": "https://api.github.com/users/CodePrakhar/repos",
+        "events_url": "https://api.github.com/users/CodePrakhar/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/CodePrakhar/received_events",
+        "type": "User",
+        "site_admin": false
+      },
+      {
+        "login": "Suvarchala-30",
+        "id": 134471094,
+        "node_id": "U_kgDOCAPdtg",
+        "avatar_url": "https://avatars.githubusercontent.com/u/134471094?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/Suvarchala-30",
+        "html_url": "https://github.com/Suvarchala-30",
+        "followers_url": "https://api.github.com/users/Suvarchala-30/followers",
+        "following_url": "https://api.github.com/users/Suvarchala-30/following{/other_user}",
+        "gists_url": "https://api.github.com/users/Suvarchala-30/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/Suvarchala-30/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/Suvarchala-30/subscriptions",
+        "organizations_url": "https://api.github.com/users/Suvarchala-30/orgs",
+        "repos_url": "https://api.github.com/users/Suvarchala-30/repos",
+        "events_url": "https://api.github.com/users/Suvarchala-30/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/Suvarchala-30/received_events",
+        "type": "User",
+        "site_admin": false
+      },
+      {
+        "login": "navvay",
+        "id": 135510092,
+        "node_id": "U_kgDOCBO4TA",
+        "avatar_url": "https://avatars.githubusercontent.com/u/135510092?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/navvay",
+        "html_url": "https://github.com/navvay",
+        "followers_url": "https://api.github.com/users/navvay/followers",
+        "following_url": "https://api.github.com/users/navvay/following{/other_user}",
+        "gists_url": "https://api.github.com/users/navvay/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/navvay/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/navvay/subscriptions",
+        "organizations_url": "https://api.github.com/users/navvay/orgs",
+        "repos_url": "https://api.github.com/users/navvay/repos",
+        "events_url": "https://api.github.com/users/navvay/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/navvay/received_events",
+        "type": "User",
+        "site_admin": false
+      }
+    ]
+  }
+]
