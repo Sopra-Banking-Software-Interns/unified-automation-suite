@@ -52,6 +52,7 @@ touch temp.txt
 jq '.[] | .user' "contribution_final.json" > temp.txt
 linenumber=$(sed -n '$=' temp.txt)
 touch issue.txt
+echo "# Issues with link solved for a user" > issues.md
 for (( x=1; x<=$linenumber; x++ ))
 do
 linew=$(sed -n "${x}p" temp.txt)
@@ -59,6 +60,15 @@ echo "{\"user\":$linew," >>issue.txt
 echo "\"issues\":" >>issue.txt
 arr[x-1]=$(echo $response | jq "[.[] | select(.user.login==$linew) | .url] | length")
 echo $response | jq -r ".[] | select(.user.login==$linew) | .html_url" > url.txt
+echo $response | jq -r ".[] | select(.user.login==$linew) | .number" > number.txt
+echo "## $linew" >> issues.md
+linenum=$(sed -n '$=' url.txt)
+for (( y=1; y<=$linenum; y++ ))
+do
+linew1=$(sed -n "${y}p" url.txt)
+linew2=$(sed -n "${y}p" number.txt)
+echo "- [Issue no. $linew2]($linew1)" >> issues.md
+done
 sed -i 's/$/,/' url.txt
 txt=$(tr -d '\n' < url.txt)
 echo "{\"URL\":\"$txt\",\"testPayload\": true,\"keysLength\": 3}" >data1.json
