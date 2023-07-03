@@ -42,7 +42,7 @@ You are good to go.
 - [@navvay](https://github.com/navvay)
 
 ## [See User's ids with dynamic links to issues solved by them](https://github.com/Sopra-Banking-Software-Interns/unified-automation-suite/blob/main/issues.md)
-
+## [Github Leaderboard GUI](https://sopra-banking-software-interns.github.io/)
 ## Github-Leaderboard- 
 Here's a list of all the previous data tables, hosted over cloud storage
 - [Tue Jun 27 10:03:14 UTC 2023](https://us-central1-js-capstone-backend.cloudfunctions.net/api/games/rJolRAZEFEymHsugSTPL/scores/)
