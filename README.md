@@ -41,6 +41,7 @@ You are good to go.
 - [@CodePrakhar](https://github.com/CodePrakhar)
 - [@navvay](https://github.com/navvay)
 
+## [See User's ids with dynamic links to issues solved by them](https://github.com/Sopra-Banking-Software-Interns/unified-automation-suite/blob/main/issues.md)
 
 ## Github-Leaderboard- 
 Here's a list of all the previous data tables, hosted over cloud storage
