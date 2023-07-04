@@ -2,6 +2,7 @@
 ## "Riyu44"
 - [Issue no. 154](https://github.com/Sopra-Banking-Software-Interns/unified-automation-suite/issues/154)
 - [Issue no. 153](https://github.com/Sopra-Banking-Software-Interns/unified-automation-suite/pull/153)
+- [Issue no. 152](https://github.com/Sopra-Banking-Software-Interns/unified-automation-suite/issues/152)
 - [Issue no. 144](https://github.com/Sopra-Banking-Software-Interns/unified-automation-suite/issues/144)
 - [Issue no. 143](https://github.com/Sopra-Banking-Software-Interns/unified-automation-suite/issues/143)
 - [Issue no. 142](https://github.com/Sopra-Banking-Software-Interns/unified-automation-suite/issues/142)
@@ -30,5 +31,4 @@
 - [Issue no. 147](https://github.com/Sopra-Banking-Software-Interns/unified-automation-suite/pull/147)
 - [Issue no. 146](https://github.com/Sopra-Banking-Software-Interns/unified-automation-suite/pull/146)
 - [Issue no. 121](https://github.com/Sopra-Banking-Software-Interns/unified-automation-suite/pull/121)
-- [Issue no. 119](https://github.com/Sopra-Banking-Software-Interns/unified-automation-suite/issues/119)
 ## "CodePrakhar"
