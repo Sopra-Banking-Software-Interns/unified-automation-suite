@@ -23,7 +23,7 @@
     "body-parser": "^1.19.0",
     "chalk": "5.2.0",
     "compression": "^1.7.4",
-    "connect-pause": "^0.1.1",
+    "connect-pause": "0.1.0",
     "cors": "^2.8.5",
     "errorhandler": "^1.5.1",
     "express": "4.18.2",
