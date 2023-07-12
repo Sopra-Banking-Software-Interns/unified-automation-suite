@@ -1,5 +1,7 @@
 # Issues with link solved for a user
 ## "Riyu44"
+- [Issue no. 175](https://github.com/Sopra-Banking-Software-Interns/unified-automation-suite/issues/175)
+- [Issue no. 174](https://github.com/Sopra-Banking-Software-Interns/unified-automation-suite/issues/174)
 - [Issue no. 173](https://github.com/Sopra-Banking-Software-Interns/unified-automation-suite/pull/173)
 - [Issue no. 171](https://github.com/Sopra-Banking-Software-Interns/unified-automation-suite/issues/171)
 - [Issue no. 168](https://github.com/Sopra-Banking-Software-Interns/unified-automation-suite/pull/168)
@@ -26,8 +28,6 @@
 - [Issue no. 142](https://github.com/Sopra-Banking-Software-Interns/unified-automation-suite/issues/142)
 - [Issue no. 141](https://github.com/Sopra-Banking-Software-Interns/unified-automation-suite/issues/141)
 - [Issue no. 140](https://github.com/Sopra-Banking-Software-Interns/unified-automation-suite/issues/140)
-- [Issue no. 139](https://github.com/Sopra-Banking-Software-Interns/unified-automation-suite/issues/139)
-- [Issue no. 138](https://github.com/Sopra-Banking-Software-Interns/unified-automation-suite/issues/138)
 ## "Tushar-2510"
 - [Issue no. 147](https://github.com/Sopra-Banking-Software-Interns/unified-automation-suite/pull/147)
 - [Issue no. 146](https://github.com/Sopra-Banking-Software-Interns/unified-automation-suite/pull/146)
