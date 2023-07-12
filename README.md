@@ -45,15 +45,7 @@ You are good to go.
 ## [Github Leaderboard GUI](https://sopra-banking-software-interns.github.io/)
 ## Github-Leaderboard- 
 Here's a list of all the previous data tables, hosted over cloud storage
-- [Fri Jun 30 11:41:02 UTC 2023](https://us-central1-js-capstone-backend.cloudfunctions.net/api/games/FuUBbB26hWtsH4irSVfD/scores/)
-- [Fri Jun 30 11:45:33 UTC 2023](https://us-central1-js-capstone-backend.cloudfunctions.net/api/games/kpCMfYhSh4JPdhvzPtpd/scores/)
-- [Tue Jul  4 05:23:38 UTC 2023](https://us-central1-js-capstone-backend.cloudfunctions.net/api/games/kSv2lnQQQViBSMrSXN8E/scores/)
-- [Tue Jul  4 06:32:44 UTC 2023](https://us-central1-js-capstone-backend.cloudfunctions.net/api/games/zWPo438GgoACwv4WPoar/scores/)
-- [Tue Jul  4 06:33:25 UTC 2023](https://us-central1-js-capstone-backend.cloudfunctions.net/api/games/Lc2jIUlk99lm9TSjtnLO/scores/)
-- [Tue Jul  4 06:35:02 UTC 2023](https://us-central1-js-capstone-backend.cloudfunctions.net/api/games/vNvLW1gPjZog4f0l2huG/scores/)
-- [Tue Jul  4 08:49:51 UTC 2023](https://us-central1-js-capstone-backend.cloudfunctions.net/api/games/5DxQqZYGjbdm7CsfA8GY/scores/)
-- [Tue Jul  4 10:15:11 UTC 2023](https://us-central1-js-capstone-backend.cloudfunctions.net/api/games/4cZmTFZAD4tV4ggh5xrv/scores/)
-- [Tue Jul  4 10:16:59 UTC 2023](https://us-central1-js-capstone-backend.cloudfunctions.net/api/games/GuynePBvPZr9o7x1Uefl/scores/)
+
 - [Wed Jul  5 04:54:07 UTC 2023](https://us-central1-js-capstone-backend.cloudfunctions.net/api/games/UEhoYPS8fPGE2ae1nndk/scores/)
 - [Wed Jul 12 05:03:41 UTC 2023](https://us-central1-js-capstone-backend.cloudfunctions.net/api/games/VYjL6JhA9jIbw5400knh/scores/)
 - [Wed Jul 12 05:07:36 UTC 2023](https://us-central1-js-capstone-backend.cloudfunctions.net/api/games/y9HA9HrqAE2qIq1gZ9fN/scores/)
